@@ -12,7 +12,7 @@ flask/*
 /flask
 *.pyc
 localstore/*app.db
-app.db
+
 *.psd
 
 # Elastic Beanstalk Files
