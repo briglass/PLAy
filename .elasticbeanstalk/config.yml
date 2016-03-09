@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: PLAy-env
+global:
+  application_name: PLAy
+  default_ec2_keyname: null
+  default_platform: 64bit Amazon Linux 2014.03 v1.0.4 running Python 2.7
+  default_region: eu-west-1
+  profile: eb-cli
+  sc: git

@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+\flask
+/flask
+flask
+/flask/*
+*.pyc
+/localstore/*app.db
+*.psd
+# Elastic Beanstalk Files
+=======
+flask/*
+/flask
+*.pyc
+localstore/*app.db
+app.db
+*.psd
+
+# Elastic Beanstalk Files
+
+
+!.elasticbeanstalk/*.cfg.yml
+
+!.elasticbeanstalk/*.global.yml
+>>>>>>> 58241b1e12c7bdd22126f5bb9d277609e602e335
+
+
+.elasticbeanstalk/

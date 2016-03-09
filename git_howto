@@ -1,0 +1,25 @@
+~first time:
+
+git config --global user.name "My Name"
+git config --global user.email "user@domain.com"
+
+~to clone:
+
+(rename, move, or delete your local PLAy folder first)
+git clone https://github.com/lovebc/PLAy.git
+
+~to commit/push:
+
+git add *
+(git add -A)
+git commit -m "<MESSAGE>"
+git push -u origin master
+
+
+https://github.com/mattupstate/flask-security-example.git
+
+
+AWS:
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
+eb push

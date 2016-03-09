@@ -1,0 +1,1584 @@
+------------------------------------------------------------
+C:\websites\PLAy\flask\Scripts\pip-script.py run on 07/15/15 13:06:10
+Downloading/unpacking scipy
+  Getting page https://pypi.python.org/simple/scipy/
+  URLs to search for versions for scipy:
+  * https://pypi.python.org/simple/scipy/
+  Analyzing links from page https://pypi.python.org/simple/scipy/
+    Skipping https://pypi.python.org/packages/2.7/s/scipy/scipy-0.13.3-cp27-none-macosx_10_6_intel.whl#md5=4bc791c9f37645380cab2843e63d18db (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/2.7/s/scipy/scipy-0.15.1-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=a8cf565477600cbedcd5462f2baeeb0e (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/3.3/s/scipy/scipy-0.13.3-cp33-cp33m-macosx_10_6_intel.whl#md5=ca634955b1757fe5e22c6a8a035bb328 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/3.3/s/scipy/scipy-0.15.1-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=dae3174d812f31696e6d8bca2d5a1b20 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/3.4/s/scipy/scipy-0.13.3-cp34-cp34m-macosx_10_6_intel.whl#md5=0042a2e09d1632b47ed4fdb411cf9821 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/3.4/s/scipy/scipy-0.15.1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=d0aaf2da89af160060f1759947457ad6 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.10.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=310a518b189f32116da85e1762126b1a (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.11.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=b385333496b8b25a5782c2a7a35413d3 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.12.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=8230187d0f2580bbdf78fa1b56b01087 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.13.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=0b3c405ba421f43cf97837c5aa172515 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=f56df58dd416119a23d1c58316da5c26 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=d3728a6d43c3265003db3781cbd4660f (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.1-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=6bdf3109da07d8d6caeb438777d312dc (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.1rc1-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=1e6c155aa0bf5a248d3e46cf1d0ff44a (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.1rc1.dev_205726a-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=25c79e26aef2696a651c611b113c4965 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.14.1rc1.dev_52fb336-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=77ed947568d9d7b42f71ca84dce6b590 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp27/s/scipy/scipy-0.15.0-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=7c431a473ac65fd7cab4859c3743088b (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.13.0-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=d451fff29fd3d7aa501d6206bfed15f2 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.0-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=f2b504a8e3d5ee0ae33d7052a994a029 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.0-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=0ff3c20cb8e9c5c38e5a18cda3178ca7 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.1-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=423c77aa343f76c30788166400696f68 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.1rc1-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=bbe1317ca465c1246a71a86a5c380f0f (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.1rc1.dev_205726a-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=27038263a15a4c125ded37f7f1dff9d3 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.14.1rc1.dev_52fb336-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=b7514dd98239f5ec98fe290947a62906 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp33/s/scipy/scipy-0.15.0-cp33-cp33m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=f6c96a2cb737ad9f3f47db5089f8eba4 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.13.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=dcd20dad203d301f0b5ec7aa0bb49aa3 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=f5cf7e6eec6f7d41c6e46f32834d675d (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl#md5=de679794f46812c784845835371539f4 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=1c9eca63055d0e64b9b9d241ec5f9c0f (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.1rc1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=ebdd363cfce65ceb62c456a8e6047ef7 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.1rc1.dev_205726a-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=755003a1d318c5b7e47c3e3b930f955d (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.14.1rc1.dev_52fb336-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=45c8e4c39aff1eb30b870796e039adce (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Skipping https://pypi.python.org/packages/cp34/s/scipy/scipy-0.15.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl#md5=4b7fc70b09576ef91e3ff4b005816379 (from https://pypi.python.org/simple/scipy/) because it is not compatible with this Python
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.10.0.tar.gz#md5=e357c08425fd031dce63bc4905789088 (from https://pypi.python.org/simple/scipy/), version: 0.10.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.10.0.zip#md5=d1a4242266739433dcfe2096b0ab4007 (from https://pypi.python.org/simple/scipy/), version: 0.10.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.10.1.tar.gz#md5=6ad976549e22e04ca93e70cf55b70a22 (from https://pypi.python.org/simple/scipy/), version: 0.10.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.10.1.zip#md5=4156cc1b765eb186de9518a94b6c3518 (from https://pypi.python.org/simple/scipy/), version: 0.10.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.11.0.tar.gz#md5=842c81d35fd63579c41a8ca21a2419b9 (from https://pypi.python.org/simple/scipy/), version: 0.11.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.11.0.zip#md5=40b700ddde9ddab643b640fff7a9d753 (from https://pypi.python.org/simple/scipy/), version: 0.11.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.12.0.tar.gz#md5=8fb4da324649f655e8557ea92b998786 (from https://pypi.python.org/simple/scipy/), version: 0.12.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.12.0.zip#md5=e4b9f3cb2e965fc8751faedfb9164d08 (from https://pypi.python.org/simple/scipy/), version: 0.12.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.12.1.tar.gz#md5=906278290152fedfe79029371ca584a5 (from https://pypi.python.org/simple/scipy/), version: 0.12.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.12.1.zip#md5=3f23065fc45152c92c3588dad2f20c62 (from https://pypi.python.org/simple/scipy/), version: 0.12.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.0.tar.gz#md5=ffa1e9bfd2bbdf3f17f4cf8139084098 (from https://pypi.python.org/simple/scipy/), version: 0.13.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.0.zip#md5=bd588ce8255e4d5427b5b19e9da2d4c7 (from https://pypi.python.org/simple/scipy/), version: 0.13.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.1.tar.gz#md5=e082fe358a2b39cff235e5af4240f5a5 (from https://pypi.python.org/simple/scipy/), version: 0.13.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.1.zip#md5=485411032b02583b4eb63caec6f2a916 (from https://pypi.python.org/simple/scipy/), version: 0.13.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.2.tar.gz#md5=fcd110802b0bf3505ba567cf831566e1 (from https://pypi.python.org/simple/scipy/), version: 0.13.2
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.2.zip#md5=9befa30e546fba762a0c1695a509f731 (from https://pypi.python.org/simple/scipy/), version: 0.13.2
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.3.tar.gz#md5=0547c1f8e8afad4009cc9b5ef17a2d4d (from https://pypi.python.org/simple/scipy/), version: 0.13.3
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.13.3.zip#md5=20ff3a867cc5925ef1d654aed2ff7e88 (from https://pypi.python.org/simple/scipy/), version: 0.13.3
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.14.0.tar.gz#md5=d7c7f4ccf8b07b08d6fe49d5cd51f85d (from https://pypi.python.org/simple/scipy/), version: 0.14.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.14.0.zip#md5=7ee4fa9e756bab6b46b79f77c821cb68 (from https://pypi.python.org/simple/scipy/), version: 0.14.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.14.1.tar.gz#md5=1bfedd3197b3e3f8cd131ae2c06a1bf5 (from https://pypi.python.org/simple/scipy/), version: 0.14.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.14.1.zip#md5=4bfc35d3683e0ef397157f84040df5b0 (from https://pypi.python.org/simple/scipy/), version: 0.14.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.15.0.tar.gz#md5=639112f077f0aeb6d80718dc5019dc7a (from https://pypi.python.org/simple/scipy/), version: 0.15.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.15.0.zip#md5=09641b11ac17f1c141979c60a3f60895 (from https://pypi.python.org/simple/scipy/), version: 0.15.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.15.1.tar.gz#md5=be56cd8e60591d6332aac792a5880110 (from https://pypi.python.org/simple/scipy/), version: 0.15.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.15.1.zip#md5=0bd8aa1133118abc77d0d69cc2777ef3 (from https://pypi.python.org/simple/scipy/), version: 0.15.1
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.8.0.tar.gz#md5=f0bfc6141b90e6a31555b31486602251 (from https://pypi.python.org/simple/scipy/), version: 0.8.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.9.0.tar.gz#md5=ebfef6e8e82d15c875a4ee6a46d4e1cd (from https://pypi.python.org/simple/scipy/), version: 0.9.0
+    Found link https://pypi.python.org/packages/source/s/scipy/scipy-0.9.0.zip#md5=a37933c9e3c4fdf8d087624cd7dcb47d (from https://pypi.python.org/simple/scipy/), version: 0.9.0
+  Using version 0.15.1 (newest of versions: 0.15.1, 0.15.1, 0.15.0, 0.15.0, 0.14.1, 0.14.1, 0.14.0, 0.14.0, 0.13.3, 0.13.3, 0.13.2, 0.13.2, 0.13.1, 0.13.1, 0.13.0, 0.13.0, 0.12.1, 0.12.1, 0.12.0, 0.12.0, 0.11.0, 0.11.0, 0.10.1, 0.10.1, 0.10.0, 0.10.0, 0.9.0, 0.9.0, 0.8.0)
+  Downloading from URL https://pypi.python.org/packages/source/s/scipy/scipy-0.15.1.tar.gz#md5=be56cd8e60591d6332aac792a5880110 (from https://pypi.python.org/simple/scipy/)
+  Running setup.py (path:c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy\setup.py) egg_info for package scipy
+    non-existing path in 'numpy\\distutils': 'site.cfg'
+    non-existing path in 'numpy\\f2py': 'docs'
+    non-existing path in 'numpy\\f2py': 'f2py.1'
+    non-existing path in 'numpy\\lib': 'benchmarks'
+    Could not locate executable g77
+    Could not locate executable f77
+    Could not locate executable ifort
+    Could not locate executable ifl
+    Could not locate executable f90
+    Could not locate executable DF
+    Could not locate executable efl
+    Running from numpy source directory.
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1603: UserWarning:
+        Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+        Directories to search for the libraries can be specified in the
+        numpy/distutils/site.cfg file (section [atlas]) or by setting
+        the ATLAS environment variable.
+      warnings.warn(AtlasNotFoundError.__doc__)
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1612: UserWarning:
+        Blas (http://www.netlib.org/blas/) libraries not found.
+        Directories to search for the libraries can be specified in the
+        numpy/distutils/site.cfg file (section [blas]) or by setting
+        the BLAS environment variable.
+      warnings.warn(BlasNotFoundError.__doc__)
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1615: UserWarning:
+        Blas (http://www.netlib.org/blas/) sources not found.
+        Directories to search for the sources can be specified in the
+        numpy/distutils/site.cfg file (section [blas_src]) or by setting
+        the BLAS_SRC environment variable.
+      warnings.warn(BlasSrcNotFoundError.__doc__)
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1505: UserWarning:
+        Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+        Directories to search for the libraries can be specified in the
+        numpy/distutils/site.cfg file (section [atlas]) or by setting
+        the ATLAS environment variable.
+      warnings.warn(AtlasNotFoundError.__doc__)
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1516: UserWarning:
+        Lapack (http://www.netlib.org/lapack/) libraries not found.
+        Directories to search for the libraries can be specified in the
+        numpy/distutils/site.cfg file (section [lapack]) or by setting
+        the LAPACK environment variable.
+      warnings.warn(LapackNotFoundError.__doc__)
+    c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1519: UserWarning:
+        Lapack (http://www.netlib.org/lapack/) sources not found.
+        Directories to search for the sources can be specified in the
+        numpy/distutils/site.cfg file (section [lapack_src]) or by setting
+        the LAPACK_SRC environment variable.
+      warnings.warn(LapackSrcNotFoundError.__doc__)
+    C:\Python27\Lib\distutils\dist.py:267: UserWarning: Unknown distribution option: 'define_macros'
+      warnings.warn(msg)
+    _configtest.c
+    _configtest.c(1) : fatal error C1083: Cannot open include file: 'endian.h': No such file or directory
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(7) : error C2065: 'SIZEOF_LONGDOUBLE' : undeclared identifier
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(5) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(7) : error C2118: negative subscript
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_EXPM1' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_LOG1P' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_ACOSH' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_ATANH' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_ASINH' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_FTELLO' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_FSEEKO' : undeclared identifier
+    _configtest.obj : error LNK2019: unresolved external symbol strtoull referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol strtoll referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol fseeko referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol ftello referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol nextafter referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log2 referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol exp2 referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol trunc referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol rint referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol atanh referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol asinh referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol acosh referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log1p referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol expm1 referenced in function main
+    _configtest.exe : fatal error LNK1120: 14 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol expm1 referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log1p referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol acosh referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol asinh referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol atanh referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol rint referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol trunc referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol exp2 referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log2 referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol nextafter referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol ftello referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol fseeko referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol strtoll referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol strtoull referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_isnan referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_isinf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_isfinite referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_bswap32 referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_bswap64 referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol __builtin_expect referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.c
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing ')' before 'string'
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing '{' before 'string'
+    _configtest.c(1) : error C2059: syntax error : '<Unknown>'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(3) : warning C4163: 'attribute_optimize_unroll_loops' : not available as an intrinsic function
+    _configtest.c(6) : error C2065: 'attribute_optimize_unroll_loops' : undeclared identifier
+    _configtest.c
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing ')' before 'string'
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing '{' before 'string'
+    _configtest.c(1) : error C2059: syntax error : '<Unknown>'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(3) : warning C4163: 'attribute_optimize_opt_3' : not available as an intrinsic function
+    _configtest.c(6) : error C2065: 'attribute_optimize_opt_3' : undeclared identifier
+    _configtest.c
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2143: syntax error : missing ')' before '('
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing ')' before 'constant'
+    _configtest.c(1) : error C2091: function returns function
+    _configtest.c(1) : error C2143: syntax error : missing '{' before 'constant'
+    _configtest.c(1) : error C2059: syntax error : '<Unknown>'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(1) : error C2059: syntax error : ')'
+    _configtest.c(3) : warning C4163: 'attribute_nonnull' : not available as an intrinsic function
+    _configtest.c(6) : error C2065: 'attribute_nonnull' : undeclared identifier
+    _configtest.c
+    _configtest.c(1) : error C2061: syntax error : identifier 'a'
+    _configtest.c(1) : error C2059: syntax error : ';'
+    _configtest.c(3) : warning C4163: '__thread' : not available as an intrinsic function
+    _configtest.c(6) : error C2065: '__thread' : undeclared identifier
+    _configtest.obj : error LNK2019: unresolved external symbol nextafterf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol copysignf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log2f referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol exp2f referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol ldexpf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol frexpf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol hypotf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol atanhf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol acoshf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol asinhf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol expm1f referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log1pf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol truncf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol rintf referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol fabsf referenced in function main
+    _configtest.exe : fatal error LNK1120: 15 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol fabsf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol rintf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol truncf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log1pf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol expm1f referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol asinhf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol acoshf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol atanhf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol hypotf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol frexpf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol ldexpf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol exp2f referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log2f referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol copysignf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol nextafterf referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol nextafterl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol copysignl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log2l referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol exp2l referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol ldexpl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol frexpl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol modfl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol fmodl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol powl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol atan2l referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol hypotl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol atanhl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol acoshl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol asinhl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol atanl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol acosl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol asinl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol expm1l referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol expl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log1pl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol logl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol log10l referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol sqrtl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol truncl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol rintl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol ceill referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol floorl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol fabsl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol tanhl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol coshl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol sinhl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol tanl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol cosl referenced in function main
+    _configtest.obj : error LNK2019: unresolved external symbol sinl referenced in function main
+    _configtest.exe : fatal error LNK1120: 34 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol sinl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol cosl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol tanl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol sinhl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol coshl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol tanhl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol fabsl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol floorl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol ceill referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol rintl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol truncl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol sqrtl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log10l referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol logl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log1pl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol expl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol expm1l referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol asinl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol acosl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol atanl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol asinhl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol acoshl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol atanhl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol hypotl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol atan2l referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol powl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol fmodl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol modfl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol frexpl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol ldexpl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol exp2l referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol log2l referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol copysignl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.obj : error LNK2019: unresolved external symbol nextafterl referenced in function main
+    _configtest.exe : fatal error LNK1120: 1 unresolved externals
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_DECL_SIGNBIT' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'HAVE_DECL_ISFINITE' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'signbit' : undeclared identifier
+    _configtest.c
+    _configtest.c(8) : error C2065: 'isfinite' : undeclared identifier
+    _configtest.c
+    _configtest.c(1) : fatal error C1083: Cannot open include file: 'complex.h': No such file or directory
+    BUILD_ARCHITECTURE: 'AMD64', os.name='nt', sys.platform='win32'
+    _configtest.c
+    _configtest.c(3) : error C2054: expected '(' to follow 'inline'
+    _configtest.c(4) : error C2085: 'static_func' : not in formal parameter list
+    _configtest.c(4) : error C2143: syntax error : missing ';' before '{'
+    _configtest.c(7) : error C2054: expected '(' to follow 'inline'
+    _configtest.c(8) : error C2085: 'nostatic_func' : not in formal parameter list
+    _configtest.c(8) : error C2143: syntax error : missing ';' before '{'
+    _configtest.c
+    _configtest.c(3) : error C2054: expected '(' to follow '__inline__'
+    _configtest.c(4) : error C2085: 'static_func' : not in formal parameter list
+    _configtest.c(4) : error C2143: syntax error : missing ';' before '{'
+    _configtest.c(7) : error C2054: expected '(' to follow '__inline__'
+    _configtest.c(8) : error C2085: 'nostatic_func' : not in formal parameter list
+    _configtest.c(8) : error C2143: syntax error : missing ';' before '{'
+    _configtest.c
+    _configtest.c(7) : error C2065: 'Py_UNICODE_WIDE' : undeclared identifier
+    File: build\src.win-amd64-2.7\numpy\core\include/numpy\config.h
+    #define SIZEOF_PY_INTPTR_T 8
+    #define SIZEOF_OFF_T 4
+    #define SIZEOF_PY_LONG_LONG 8
+    #define MATHLIB
+    #define HAVE_SIN 1
+    #define HAVE_COS 1
+    #define HAVE_TAN 1
+    #define HAVE_SINH 1
+    #define HAVE_COSH 1
+    #define HAVE_TANH 1
+    #define HAVE_FABS 1
+    #define HAVE_FLOOR 1
+    #define HAVE_CEIL 1
+    #define HAVE_SQRT 1
+    #define HAVE_LOG10 1
+    #define HAVE_LOG 1
+    #define HAVE_EXP 1
+    #define HAVE_ASIN 1
+    #define HAVE_ACOS 1
+    #define HAVE_ATAN 1
+    #define HAVE_FMOD 1
+    #define HAVE_MODF 1
+    #define HAVE_FREXP 1
+    #define HAVE_LDEXP 1
+    #define HAVE_ATAN2 1
+    #define HAVE_POW 1
+    #define HAVE_XMMINTRIN_H 1
+    #define HAVE_EMMINTRIN_H 1
+    #define HAVE__MM_LOAD_PS 1
+    #define HAVE__MM_LOAD_PD 1
+    #define HAVE___DECLSPEC_THREAD_ 1
+    #define HAVE_SINF 1
+    #define HAVE_COSF 1
+    #define HAVE_TANF 1
+    #define HAVE_SINHF 1
+    #define HAVE_COSHF 1
+    #define HAVE_TANHF 1
+    #define HAVE_FLOORF 1
+    #define HAVE_CEILF 1
+    #define HAVE_SQRTF 1
+    #define HAVE_LOG10F 1
+    #define HAVE_LOGF 1
+    #define HAVE_EXPF 1
+    #define HAVE_ASINF 1
+    #define HAVE_ACOSF 1
+    #define HAVE_ATANF 1
+    #define HAVE_ATAN2F 1
+    #define HAVE_POWF 1
+    #define HAVE_FMODF 1
+    #define HAVE_MODFF 1
+    #define __NPY_PRIVATE_NO_SIGNAL
+    #define DISTUTILS_USE_SDK
+    #define FORCE_NO_LONG_DOUBLE_FORMATTING
+    #define ENABLE_SEPARATE_COMPILATION 1
+    #define HAVE_LDOUBLE_IEEE_DOUBLE_LE 1
+    #ifndef __cplusplus
+    #define inline __inline
+    #endif
+    
+    #ifndef _NPY_NPY_CONFIG_H_
+    #error config.h should never be included directly, include npy_config.h instead
+    #endif
+    
+    EOF
+    _configtest.c
+    _configtest.c(1) : fatal error C1083: Cannot open include file: 'inttypes.h': No such file or directory
+    _configtest.c
+    _configtest.c(6) : fatal error C1189: #error :  gcc >= 4 required
+    File: build\src.win-amd64-2.7\numpy\core\include/numpy\_numpyconfig.h
+    #define NPY_SIZEOF_SHORT SIZEOF_SHORT
+    #define NPY_SIZEOF_INT SIZEOF_INT
+    #define NPY_SIZEOF_LONG SIZEOF_LONG
+    #define NPY_SIZEOF_FLOAT 4
+    #define NPY_SIZEOF_COMPLEX_FLOAT 8
+    #define NPY_SIZEOF_DOUBLE 8
+    #define NPY_SIZEOF_COMPLEX_DOUBLE 16
+    #define NPY_SIZEOF_LONGDOUBLE 8
+    #define NPY_SIZEOF_COMPLEX_LONGDOUBLE 16
+    #define NPY_SIZEOF_PY_INTPTR_T 8
+    #define NPY_SIZEOF_OFF_T 4
+    #define NPY_SIZEOF_PY_LONG_LONG 8
+    #define NPY_SIZEOF_LONGLONG 8
+    #define NPY_NO_SIGNAL 1
+    #define NPY_NO_SMP 0
+    #define NPY_HAVE_DECL_ISNAN
+    #define NPY_HAVE_DECL_ISINF
+    #define NPY_ENABLE_SEPARATE_COMPILATION 1
+    #define NPY_VISIBILITY_HIDDEN
+    #define NPY_ABI_VERSION 0x01000009
+    #define NPY_API_VERSION 0x00000009
+    
+    #ifndef __STDC_FORMAT_MACROS
+    #define __STDC_FORMAT_MACROS 1
+    #endif
+    
+    EOF
+    ### Warning:  Using unoptimized lapack ###
+    ### Warning:  Using unoptimized lapack ###
+    warning: no previously-included files matching '*.pyc' found anywhere in distribution
+    warning: no previously-included files matching '*.pyo' found anywhere in distribution
+    warning: no previously-included files matching '*.pyd' found anywhere in distribution
+    LINK : fatal error LNK1104: cannot open file 'python27.lib'
+    Traceback (most recent call last):
+      File "<string>", line 17, in <module>
+      File "c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy\setup.py", line 249, in <module>
+        setup_package()
+      File "c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy\setup.py", line 246, in setup_package
+        setup(**metadata)
+      File "C:\Python27\Lib\distutils\core.py", line 112, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "build\bdist.win-amd64\egg\setuptools\dist.py", line 265, in __init__
+      File "build\bdist.win-amd64\egg\setuptools\dist.py", line 310, in fetch_build_eggs
+      File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 824, in resolve
+      File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 1069, in best_match
+      File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 1081, in obtain
+      File "build\bdist.win-amd64\egg\setuptools\dist.py", line 377, in fetch_build_egg
+      File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 629, in easy_install
+      File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 659, in install_item
+      File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 842, in install_eggs
+      File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 1070, in build_and_install
+      File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 1058, in run_setup
+    distutils.errors.DistutilsError: Setup script exited with error: Command "C:\Users\bglass\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\Bin\amd64\link.exe /DLL /nologo /INCREMENTAL:NO /LIBPATH:C:\websites\PLAy\flask\libs /LIBPATH:C:\websites\PLAy\flask\PCbuild\amd64 /LIBPATH:build\temp.win-amd64-2.7 /EXPORT:init_dummy build\temp.win-amd64-2.7\Release\numpy\core\src\dummymodule.obj /OUT:build\lib.win-amd64-2.7\numpy\core\_dummy.pyd /IMPLIB:build\temp.win-amd64-2.7\Release\numpy\core\src\_dummy.lib /MANIFESTFILE:build\temp.win-amd64-2.7\Release\numpy\core\src\_dummy.pyd.manifest" failed with exit status 1104
+    Complete output from command python setup.py egg_info:
+    non-existing path in 'numpy\\distutils': 'site.cfg'
+
+non-existing path in 'numpy\\f2py': 'docs'
+
+non-existing path in 'numpy\\f2py': 'f2py.1'
+
+non-existing path in 'numpy\\lib': 'benchmarks'
+
+Could not locate executable g77
+
+Could not locate executable f77
+
+Could not locate executable ifort
+
+Could not locate executable ifl
+
+Could not locate executable f90
+
+Could not locate executable DF
+
+Could not locate executable efl
+
+Running from numpy source directory.
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1603: UserWarning:
+
+    Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+
+    Directories to search for the libraries can be specified in the
+
+    numpy/distutils/site.cfg file (section [atlas]) or by setting
+
+    the ATLAS environment variable.
+
+  warnings.warn(AtlasNotFoundError.__doc__)
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1612: UserWarning:
+
+    Blas (http://www.netlib.org/blas/) libraries not found.
+
+    Directories to search for the libraries can be specified in the
+
+    numpy/distutils/site.cfg file (section [blas]) or by setting
+
+    the BLAS environment variable.
+
+  warnings.warn(BlasNotFoundError.__doc__)
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1615: UserWarning:
+
+    Blas (http://www.netlib.org/blas/) sources not found.
+
+    Directories to search for the sources can be specified in the
+
+    numpy/distutils/site.cfg file (section [blas_src]) or by setting
+
+    the BLAS_SRC environment variable.
+
+  warnings.warn(BlasSrcNotFoundError.__doc__)
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1505: UserWarning:
+
+    Atlas (http://math-atlas.sourceforge.net/) libraries not found.
+
+    Directories to search for the libraries can be specified in the
+
+    numpy/distutils/site.cfg file (section [atlas]) or by setting
+
+    the ATLAS environment variable.
+
+  warnings.warn(AtlasNotFoundError.__doc__)
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1516: UserWarning:
+
+    Lapack (http://www.netlib.org/lapack/) libraries not found.
+
+    Directories to search for the libraries can be specified in the
+
+    numpy/distutils/site.cfg file (section [lapack]) or by setting
+
+    the LAPACK environment variable.
+
+  warnings.warn(LapackNotFoundError.__doc__)
+
+c:\users\bglass\appdata\local\temp\easy_install-nv79t0\numpy-1.9.2\numpy\distutils\system_info.py:1519: UserWarning:
+
+    Lapack (http://www.netlib.org/lapack/) sources not found.
+
+    Directories to search for the sources can be specified in the
+
+    numpy/distutils/site.cfg file (section [lapack_src]) or by setting
+
+    the LAPACK_SRC environment variable.
+
+  warnings.warn(LapackSrcNotFoundError.__doc__)
+
+C:\Python27\Lib\distutils\dist.py:267: UserWarning: Unknown distribution option: 'define_macros'
+
+  warnings.warn(msg)
+
+_configtest.c
+
+_configtest.c(1) : fatal error C1083: Cannot open include file: 'endian.h': No such file or directory
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(7) : error C2065: 'SIZEOF_LONGDOUBLE' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(5) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(7) : error C2118: negative subscript
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_EXPM1' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_LOG1P' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_ACOSH' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_ATANH' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_ASINH' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_FTELLO' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_FSEEKO' : undeclared identifier
+
+_configtest.obj : error LNK2019: unresolved external symbol strtoull referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol strtoll referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol fseeko referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol ftello referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafter referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log2 referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2 referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol trunc referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol rint referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol atanh referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol asinh referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol acosh referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log1p referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 14 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log1p referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol acosh referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol asinh referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol atanh referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol rint referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol trunc referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log2 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafter referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol ftello referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol fseeko referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol strtoll referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol strtoull referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_isnan referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_isinf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_isfinite referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_bswap32 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_bswap64 referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol __builtin_expect referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.c
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before 'string'
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing '{' before 'string'
+
+_configtest.c(1) : error C2059: syntax error : '<Unknown>'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(3) : warning C4163: 'attribute_optimize_unroll_loops' : not available as an intrinsic function
+
+_configtest.c(6) : error C2065: 'attribute_optimize_unroll_loops' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before 'string'
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing '{' before 'string'
+
+_configtest.c(1) : error C2059: syntax error : '<Unknown>'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(3) : warning C4163: 'attribute_optimize_opt_3' : not available as an intrinsic function
+
+_configtest.c(6) : error C2065: 'attribute_optimize_opt_3' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before '('
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing ')' before 'constant'
+
+_configtest.c(1) : error C2091: function returns function
+
+_configtest.c(1) : error C2143: syntax error : missing '{' before 'constant'
+
+_configtest.c(1) : error C2059: syntax error : '<Unknown>'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(1) : error C2059: syntax error : ')'
+
+_configtest.c(3) : warning C4163: 'attribute_nonnull' : not available as an intrinsic function
+
+_configtest.c(6) : error C2065: 'attribute_nonnull' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(1) : error C2061: syntax error : identifier 'a'
+
+_configtest.c(1) : error C2059: syntax error : ';'
+
+_configtest.c(3) : warning C4163: '__thread' : not available as an intrinsic function
+
+_configtest.c(6) : error C2065: '__thread' : undeclared identifier
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafterf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol copysignf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log2f referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2f referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol ldexpf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol frexpf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol hypotf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol atanhf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol acoshf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol asinhf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1f referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log1pf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol truncf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol rintf referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol fabsf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 15 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol fabsf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol rintf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol truncf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log1pf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1f referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol asinhf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol acoshf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol atanhf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol hypotf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol frexpf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol ldexpf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2f referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log2f referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol copysignf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafterf referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafterl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol copysignl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log2l referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2l referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol ldexpl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol frexpl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol modfl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol fmodl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol powl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol atan2l referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol hypotl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol atanhl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol acoshl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol asinhl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol atanl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol acosl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol asinl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1l referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol expl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log1pl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol logl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol log10l referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol sqrtl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol truncl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol rintl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol ceill referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol floorl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol fabsl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol tanhl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol coshl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol sinhl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol tanl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol cosl referenced in function main
+
+_configtest.obj : error LNK2019: unresolved external symbol sinl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 34 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol sinl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol cosl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol tanl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol sinhl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol coshl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol tanhl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol fabsl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol floorl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol ceill referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol rintl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol truncl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol sqrtl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log10l referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol logl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log1pl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol expl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol expm1l referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol asinl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol acosl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol atanl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol asinhl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol acoshl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol atanhl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol hypotl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol atan2l referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol powl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol fmodl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol modfl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol frexpl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol ldexpl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol exp2l referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol log2l referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol copysignl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.obj : error LNK2019: unresolved external symbol nextafterl referenced in function main
+
+_configtest.exe : fatal error LNK1120: 1 unresolved externals
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_DECL_SIGNBIT' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'HAVE_DECL_ISFINITE' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'signbit' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(8) : error C2065: 'isfinite' : undeclared identifier
+
+_configtest.c
+
+_configtest.c(1) : fatal error C1083: Cannot open include file: 'complex.h': No such file or directory
+
+BUILD_ARCHITECTURE: 'AMD64', os.name='nt', sys.platform='win32'
+
+_configtest.c
+
+_configtest.c(3) : error C2054: expected '(' to follow 'inline'
+
+_configtest.c(4) : error C2085: 'static_func' : not in formal parameter list
+
+_configtest.c(4) : error C2143: syntax error : missing ';' before '{'
+
+_configtest.c(7) : error C2054: expected '(' to follow 'inline'
+
+_configtest.c(8) : error C2085: 'nostatic_func' : not in formal parameter list
+
+_configtest.c(8) : error C2143: syntax error : missing ';' before '{'
+
+_configtest.c
+
+_configtest.c(3) : error C2054: expected '(' to follow '__inline__'
+
+_configtest.c(4) : error C2085: 'static_func' : not in formal parameter list
+
+_configtest.c(4) : error C2143: syntax error : missing ';' before '{'
+
+_configtest.c(7) : error C2054: expected '(' to follow '__inline__'
+
+_configtest.c(8) : error C2085: 'nostatic_func' : not in formal parameter list
+
+_configtest.c(8) : error C2143: syntax error : missing ';' before '{'
+
+_configtest.c
+
+_configtest.c(7) : error C2065: 'Py_UNICODE_WIDE' : undeclared identifier
+
+File: build\src.win-amd64-2.7\numpy\core\include/numpy\config.h
+
+#define SIZEOF_PY_INTPTR_T 8
+
+#define SIZEOF_OFF_T 4
+
+#define SIZEOF_PY_LONG_LONG 8
+
+#define MATHLIB
+
+#define HAVE_SIN 1
+
+#define HAVE_COS 1
+
+#define HAVE_TAN 1
+
+#define HAVE_SINH 1
+
+#define HAVE_COSH 1
+
+#define HAVE_TANH 1
+
+#define HAVE_FABS 1
+
+#define HAVE_FLOOR 1
+
+#define HAVE_CEIL 1
+
+#define HAVE_SQRT 1
+
+#define HAVE_LOG10 1
+
+#define HAVE_LOG 1
+
+#define HAVE_EXP 1
+
+#define HAVE_ASIN 1
+
+#define HAVE_ACOS 1
+
+#define HAVE_ATAN 1
+
+#define HAVE_FMOD 1
+
+#define HAVE_MODF 1
+
+#define HAVE_FREXP 1
+
+#define HAVE_LDEXP 1
+
+#define HAVE_ATAN2 1
+
+#define HAVE_POW 1
+
+#define HAVE_XMMINTRIN_H 1
+
+#define HAVE_EMMINTRIN_H 1
+
+#define HAVE__MM_LOAD_PS 1
+
+#define HAVE__MM_LOAD_PD 1
+
+#define HAVE___DECLSPEC_THREAD_ 1
+
+#define HAVE_SINF 1
+
+#define HAVE_COSF 1
+
+#define HAVE_TANF 1
+
+#define HAVE_SINHF 1
+
+#define HAVE_COSHF 1
+
+#define HAVE_TANHF 1
+
+#define HAVE_FLOORF 1
+
+#define HAVE_CEILF 1
+
+#define HAVE_SQRTF 1
+
+#define HAVE_LOG10F 1
+
+#define HAVE_LOGF 1
+
+#define HAVE_EXPF 1
+
+#define HAVE_ASINF 1
+
+#define HAVE_ACOSF 1
+
+#define HAVE_ATANF 1
+
+#define HAVE_ATAN2F 1
+
+#define HAVE_POWF 1
+
+#define HAVE_FMODF 1
+
+#define HAVE_MODFF 1
+
+#define __NPY_PRIVATE_NO_SIGNAL
+
+#define DISTUTILS_USE_SDK
+
+#define FORCE_NO_LONG_DOUBLE_FORMATTING
+
+#define ENABLE_SEPARATE_COMPILATION 1
+
+#define HAVE_LDOUBLE_IEEE_DOUBLE_LE 1
+
+#ifndef __cplusplus
+
+#define inline __inline
+
+#endif
+
+
+
+#ifndef _NPY_NPY_CONFIG_H_
+
+#error config.h should never be included directly, include npy_config.h instead
+
+#endif
+
+
+
+EOF
+
+_configtest.c
+
+_configtest.c(1) : fatal error C1083: Cannot open include file: 'inttypes.h': No such file or directory
+
+_configtest.c
+
+_configtest.c(6) : fatal error C1189: #error :  gcc >= 4 required
+
+File: build\src.win-amd64-2.7\numpy\core\include/numpy\_numpyconfig.h
+
+#define NPY_SIZEOF_SHORT SIZEOF_SHORT
+
+#define NPY_SIZEOF_INT SIZEOF_INT
+
+#define NPY_SIZEOF_LONG SIZEOF_LONG
+
+#define NPY_SIZEOF_FLOAT 4
+
+#define NPY_SIZEOF_COMPLEX_FLOAT 8
+
+#define NPY_SIZEOF_DOUBLE 8
+
+#define NPY_SIZEOF_COMPLEX_DOUBLE 16
+
+#define NPY_SIZEOF_LONGDOUBLE 8
+
+#define NPY_SIZEOF_COMPLEX_LONGDOUBLE 16
+
+#define NPY_SIZEOF_PY_INTPTR_T 8
+
+#define NPY_SIZEOF_OFF_T 4
+
+#define NPY_SIZEOF_PY_LONG_LONG 8
+
+#define NPY_SIZEOF_LONGLONG 8
+
+#define NPY_NO_SIGNAL 1
+
+#define NPY_NO_SMP 0
+
+#define NPY_HAVE_DECL_ISNAN
+
+#define NPY_HAVE_DECL_ISINF
+
+#define NPY_ENABLE_SEPARATE_COMPILATION 1
+
+#define NPY_VISIBILITY_HIDDEN
+
+#define NPY_ABI_VERSION 0x01000009
+
+#define NPY_API_VERSION 0x00000009
+
+
+
+#ifndef __STDC_FORMAT_MACROS
+
+#define __STDC_FORMAT_MACROS 1
+
+#endif
+
+
+
+EOF
+
+### Warning:  Using unoptimized lapack ###
+
+### Warning:  Using unoptimized lapack ###
+
+warning: no previously-included files matching '*.pyc' found anywhere in distribution
+
+warning: no previously-included files matching '*.pyo' found anywhere in distribution
+
+warning: no previously-included files matching '*.pyd' found anywhere in distribution
+
+LINK : fatal error LNK1104: cannot open file 'python27.lib'
+
+Traceback (most recent call last):
+
+  File "<string>", line 17, in <module>
+
+  File "c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy\setup.py", line 249, in <module>
+
+    setup_package()
+
+  File "c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy\setup.py", line 246, in setup_package
+
+    setup(**metadata)
+
+  File "C:\Python27\Lib\distutils\core.py", line 112, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "build\bdist.win-amd64\egg\setuptools\dist.py", line 265, in __init__
+
+  File "build\bdist.win-amd64\egg\setuptools\dist.py", line 310, in fetch_build_eggs
+
+  File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 824, in resolve
+
+  File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 1069, in best_match
+
+  File "build\bdist.win-amd64\egg\pkg_resources\__init__.py", line 1081, in obtain
+
+  File "build\bdist.win-amd64\egg\setuptools\dist.py", line 377, in fetch_build_egg
+
+  File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 629, in easy_install
+
+  File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 659, in install_item
+
+  File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 842, in install_eggs
+
+  File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 1070, in build_and_install
+
+  File "build\bdist.win-amd64\egg\setuptools\command\easy_install.py", line 1058, in run_setup
+
+distutils.errors.DistutilsError: Setup script exited with error: Command "C:\Users\bglass\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\Bin\amd64\link.exe /DLL /nologo /INCREMENTAL:NO /LIBPATH:C:\websites\PLAy\flask\libs /LIBPATH:C:\websites\PLAy\flask\PCbuild\amd64 /LIBPATH:build\temp.win-amd64-2.7 /EXPORT:init_dummy build\temp.win-amd64-2.7\Release\numpy\core\src\dummymodule.obj /OUT:build\lib.win-amd64-2.7\numpy\core\_dummy.pyd /IMPLIB:build\temp.win-amd64-2.7\Release\numpy\core\src\_dummy.lib /MANIFESTFILE:build\temp.win-amd64-2.7\Release\numpy\core\src\_dummy.pyd.manifest" failed with exit status 1104
+
+----------------------------------------
+Cleaning up...
+  Removing temporary dir c:\users\bglass\appdata\local\temp\pip_build_bglass...
+Command python setup.py egg_info failed with error code 1 in c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy
+Exception information:
+Traceback (most recent call last):
+  File "C:\websites\PLAy\flask\lib\site-packages\pip-1.5.6-py2.7.egg\pip\basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "C:\websites\PLAy\flask\lib\site-packages\pip-1.5.6-py2.7.egg\pip\commands\install.py", line 278, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "C:\websites\PLAy\flask\lib\site-packages\pip-1.5.6-py2.7.egg\pip\req.py", line 1229, in prepare_files
+    req_to_install.run_egg_info()
+  File "C:\websites\PLAy\flask\lib\site-packages\pip-1.5.6-py2.7.egg\pip\req.py", line 325, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "C:\websites\PLAy\flask\lib\site-packages\pip-1.5.6-py2.7.egg\pip\util.py", line 697, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command python setup.py egg_info failed with error code 1 in c:\users\bglass\appdata\local\temp\pip_build_bglass\scipy

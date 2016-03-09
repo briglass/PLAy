@@ -1,0 +1,5 @@
+Current GoDaddy setting to send to AWS
+
+forward to: http://54.76.178.86
+redirect: 301 (Permanent)	
+type: Forward with Masking

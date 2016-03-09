@@ -1,0 +1,123 @@
+Hello World in Flask
+
+more: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+more: https://devcenter.heroku.com/articles/getting-started-with-python#start-flask-app-inside-a-virtualenv
+
+From fresh Ubuntu install
+
+Install Python
+	sudo apt-get install build-essential
+	sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+	cd ~/Downloads/
+	wget http://python.org/ftp/python/2.7.6/Python-2.7.6.tgz
+	tar -xvf Python-2.7.6.tgz
+	cd Python-2.7.6
+	./configure
+	make
+	sudo make altinstall
+	
+Install virtualenv
+	sudo apt-get install python-virtualenv
+	-Create a new folder for project
+	-Download https://raw.github.com/pypa/virtualenv/1.9.X/virtualenv.py, put into that folder
+	python virtualenv.py flask
+	
+Install flask
+	flask/bin/pip install flask==0.9
+	flask/bin/pip install flask-login
+	flask/bin/pip install flask-openid
+	flask/bin/pip install flask-mail==0.7.6
+	flask/bin/pip install sqlalchemy==0.7.9
+	flask/bin/pip install flask-sqlalchemy==0.16
+	flask/bin/pip install sqlalchemy-migrate==0.7.2
+	flask/bin/pip install flask-whooshalchemy==0.55a
+	flask/bin/pip install flask-wtf==0.8.4
+	flask/bin/pip install pytz==2013b
+	flask/bin/pip install flask-babel==0.8
+	flask/bin/pip install flup
+	flask/bin/pip install Flask-Uploads
+	rm virtualenv.py
+
+Setup flask application
+	mkdir app
+	mkdir app/static
+	mkdir app/templates
+	mkdir tmp
+	
+Hello World
+	-create file app/__init__.py
+		from flask import Flask
+		app = Flask(__name__)
+		from app import views
+		
+	-create file app/views.py
+		from app import app	
+		@app.route('/')
+		@app.route('/index')
+		def index():
+			return "Hello, World!"
+	
+	-create file run.py (root project folder)
+		#!flask/bin/python
+		from app import app
+		app.run(debug = True)
+		
+	chmod a+x run.py
+	./run.py
+	
+Install bootstrap	
+	sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev build-essential
+	sudo apt-get install git-core
+	-download and install node http://nodejs.org/ (node-v0.10.26.tar.gz, copy to website folder)
+	tar -zxvf node-v0.10.26.tar.gz
+	cd node-v0.10.26.tar.gz
+	make
+	sudo make install
+	sudo npm install -g less
+	sudo npm install -g bower
+	sudo npm install -g grunt-cli
+	bower install bootstrap
+	
+	
+WINDOWS:
+
+Install python: https://www.python.org/download/releases/2.7.6/
+
+Add python to path:
+	Environment Variables.
+	Append ;C:\python27 to the Path variable.
+	Restart Command Prompt.
+	
+Create folder: c:\websites\flashsale
+
+Put virtualenv.py in that folder: http://pypi.python.org/pypi/virtualenv
+
+Run: python virtualenv.py flask
+
+Run:
+
+	flask\Scripts\pip install flask==0.9
+	flask\Scripts\pip install flask-login
+	flask\Scripts\pip install flask-openid
+	flask\Scripts\pip install sqlalchemy==0.7.9
+	flask\Scripts\pip install flask-sqlalchemy==0.16
+	flask\Scripts\pip install sqlalchemy-migrate==0.7.2
+	flask\Scripts\pip install flask-whooshalchemy==0.55a
+	flask\Scripts\pip install flask-wtf==0.8.4
+	flask\Scripts\pip install pytz==2013b
+	flask\Scripts\pip install flask-babel==0.8
+	flask\Scripts\pip install flup
+	flask\Scripts\pip install --no-deps lamson chardet flask-mail==0.7.6
+	flask\Scripts\pip install flask-security
+	flask\Scripts\pip install flask-stormpath
+	
+Edit host file: C:\Windows\System32\drivers\etc
+
+??
+Flask-Stormpath: (https://pypi.python.org/pypi/Flask-Stormpath/0.1.0)
+	flask\Scripts\pip install flask-flaskstormpath
+	
+St@rcraft1
+broad-tail
+
+https://stormpath.com/blog/part-one-flask-authentication-problem/
